@@ -1,4 +1,78 @@
-body { 
-    background-color: rgb(255, 210, 153);
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.titlePage {
+    width: auto;
+    border: 0px solid #FFD299;
+    padding: 450px 10px;
+    background-image: url(images/Component\ 10.png), linear-gradient(180deg, #FFD299 40%, #FFD299);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: 50% 50%, 50% 50%, 50% 50%;
+    background-size: auto, auto, auto;
+    
+}
+body {
+    background-color: rgb(139, 69, 19);
+}
+h2 {
+    font-size: 50px;
+    text-align: left;
+    font-family: lemon milk light;
+    color: #6B2800;
+    padding: 50px 50px;
+}
 
+.plats1 {
+    width: 728px;
+    height: 617px;
+    flex-shrink: 0;
+}
+.plats2 {
+    width: 690px;
+    height: 550px;
+    flex-shrink: 0;
+}
+.plats3 {
+    width: 648px;
+    height: 493px;
+    flex-shrink: 0;
+}
+.plats4 {
+    width: 828px;
+    height: 629px;
+    flex-shrink: 0;
+}
+h3 {
+    color: #6B2800;
+    font-family: "LEMON MILK";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: left;
+}
+.offres {
+    width : 1371px;
+    height : 286px;
+}
+
+/* On fait le responsive pour téléphone de 600px */
+@media only screen and (max-width: 600px) {
+     nav {
+        flex-direction: column;
+        display: block;
+    }
+
+    body {
+        flex-direction: column;
+        display: block;
+  }
+
+  .titlePage {
+    flex-direction: column;
+    display: block;
+  }
 }

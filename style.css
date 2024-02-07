@@ -5,6 +5,8 @@
     text-align: center;
 }
 .titlePage {
+    position: relative;
+    cursor: pointer;
     width: auto;
     border: 0px solid #FFD299;
     padding: 450px 10px;
@@ -55,6 +57,8 @@ h3 {
     text-align: left;
 }
 .offres {
+    position: relative;
+    cursor: pointer;
     width : 1371px;
     height : 286px;
     display: flex;

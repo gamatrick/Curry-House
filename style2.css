@@ -19,7 +19,7 @@ svg {
     display: flex;
     align-items: stretch;
 }
-h1 {
+.plats {
     color: #6B2800;
     font-size: 40px;
     text-align: left;
@@ -55,6 +55,17 @@ button {
     font-weight: 400;
     line-height: normal;
 }
+
+h1 {
+    color: #6B2800;
+    font-size: 20px;
+    text-align: left;
+    font-family: lemon milk light;
+    color: #6B2800;
+    padding: 50px 50px;
+}
+
+
 /* On fait le responsive pour téléphone de 600px */
 @media only screen and (max-width: 600px) {
     nav {

@@ -34,27 +34,6 @@ h1 {
     display: flex;
     align-items: stretch;
 }
-.buttonacheter {
-    text-decoration: none;
-    width: 203px;
-    display: flex;
-    justify-content: flex-end;
-}
-button {
-    text-decoration: none;
-    border-radius: 50px;
-    border: 1px solid #FDD000;
-    background: #6B2800;
-    width: 203px;
-    height: 52px;
-    flex-shrink: 0;
-    color: #FDD000;
-    font-family: "LEMON MILK";
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-}
 /* On fait le responsive pour téléphone de 600px */
 @media only screen and (max-width: 600px) {
     nav {

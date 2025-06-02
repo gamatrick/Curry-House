@@ -40,3 +40,5 @@ Il m’a permis d’expérimenter les **fondamentaux du web** :
 - Utiliser plusieurs fichiers HTML/CSS pour tester différentes mises en page  
 - Appliquer une feuille de style personnalisée par page  
 - Gérer les erreurs 404 avec une page dédiée
+
+![image](https://github.com/user-attachments/assets/78d4e8c9-0e94-4ebd-883b-d6ecd871596b)

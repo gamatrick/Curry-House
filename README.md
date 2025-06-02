@@ -42,3 +42,8 @@ Il m’a permis d’expérimenter les **fondamentaux du web** :
 - Gérer les erreurs 404 avec une page dédiée
 
 ![image](https://github.com/user-attachments/assets/78d4e8c9-0e94-4ebd-883b-d6ecd871596b)
+![image](https://github.com/user-attachments/assets/9877d599-5882-4231-9a14-82827d9c1d79)
+![image](https://github.com/user-attachments/assets/c9369292-c48a-4c3c-8612-9a0006e805ec)
+![image](https://github.com/user-attachments/assets/db147119-a619-4505-a1a8-3db00af6fcfa)
+![image](https://github.com/user-attachments/assets/41749692-8331-48ce-8526-c2cbcfe12787)
+
